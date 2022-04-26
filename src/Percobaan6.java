@@ -15,7 +15,7 @@ class MyOuterClassDemo {
     }
 }
 
-public class Percobaan6 {
+public class Percobaan6{
     public static void main(String[] args) {
         MyOuterClassDemo myOuter = new MyOuterClassDemo();
         myOuter.doThings();
