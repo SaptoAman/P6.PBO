@@ -1,13 +1,13 @@
 package Percobaan7;
 
-public class Button{
+public class Button {
     private Clickable action;
 
-    void setClickAction (Clickable action) {
+    public void setClickAction(Clickable action) {
         this.action = action;
     }
 
-    void doClick () {
+    public void doClick() {
         action.onClick();
     }
 }

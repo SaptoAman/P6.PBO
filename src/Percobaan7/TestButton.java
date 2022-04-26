@@ -1,6 +1,6 @@
 package Percobaan7;
 
-public class TestButton{
+public class TestButton {
     public static void main(String[] args) {
         Button btn = new Button();
 
