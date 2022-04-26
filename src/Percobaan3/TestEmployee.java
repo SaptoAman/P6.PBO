@@ -2,7 +2,6 @@ package Percobaan3;
 
 public class TestEmployee {
     public static void main(String[] args) {
-        //Membuat objek
         Employee employeeA = new Employee();
         employeeA.displayInfo();
 

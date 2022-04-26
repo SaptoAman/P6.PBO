@@ -1,12 +1,10 @@
 package Percobaan3;
 
 public class Employee implements Person{
-    //Membuat variabel
     String firstName;
     String lastName;
     String posisi = "Programmer";
 
-    //Membuat method
     public Employee () {
         this.firstName = FIRSTNAME;
         this.lastName =  LASTNAME;
