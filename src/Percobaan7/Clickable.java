@@ -1,5 +1,5 @@
 package Percobaan7;
 
-interface Clickable {
+interface Clickable{
     void onClick();
 }

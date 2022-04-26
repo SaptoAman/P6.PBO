@@ -1,6 +1,6 @@
 package Percobaan7;
 
-public class Button {
+public class Button{
     private Clickable action;
 
     void setClickAction (Clickable action) {
