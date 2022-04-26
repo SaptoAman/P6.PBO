@@ -1,7 +1,7 @@
 import Percobaan7.Button;
 import Percobaan7.Clickable;
 
-public class Percobaan8 {
+public class Percobaan8{
     static String title = "Tutorial Anonymous Class";
 
     public static void main(String[] args) {
