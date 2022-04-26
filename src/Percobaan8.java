@@ -14,7 +14,6 @@ public class Percobaan8{
             public void onClick() {
                 System.out.println("Tombol Sudah Di Klik");
                 System.out.println("Yay!");
-                //Mengakses variabel
                 System.out.println("Hello " +name);
                 System.out.println(title);
                 System.out.println(message);
