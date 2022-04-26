@@ -1,5 +1,5 @@
 package Percobaan3;
 
-public interface Named {
+public interface Named{
     String getName();
 }
