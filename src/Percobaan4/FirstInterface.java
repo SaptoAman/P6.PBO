@@ -1,6 +1,6 @@
 package Percobaan4;
 
-public interface FirstInterface {
+public interface FirstInterface{
     int NUMBER = 13;
 
     void printHello();

@@ -1,6 +1,6 @@
 package Percobaan4;
 
-public interface SecondInterface {
+public interface SecondInterface{
     int NUMBER = 11;
 
     void printHello();
